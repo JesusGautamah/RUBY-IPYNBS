@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.Trash-0
+
+.env
+*/.env
+ruby-openai/files_to_generate/*
