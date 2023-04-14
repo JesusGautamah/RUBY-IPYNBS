@@ -1,4 +1,4 @@
-# JG-RUBY-IPYNBS
+# RUBY-IPYNBS
 My colletion of Jupyter Notebooks
 Using Iruby inside Docker Container
 
